@@ -1,0 +1,99 @@
+#page-header {
+    font-family: serif;
+    color: #082b3e;
+    font-size: 15px;
+    background: #7191ac;
+    padding: 10px 10px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    display: flex;
+}
+#page-header:hover {
+    background: linear-gradient(90deg,  #7191ac, #ccfaff);
+    opacity: 100%;
+}
+#headers {
+    padding-left: 20px;
+    width: 75%;
+}
+h2 {
+    color: #093a4e;
+}
+#header-cats {
+    padding-left: 7px;
+    padding-top: 3px;
+    width: 75%;
+    text-align: right;
+}
+body {
+    background-color: #c3eaff ;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+#page-container {
+    padding-left: 5px;
+    display: flex;
+}
+
+#form-block {
+    width: 30%;
+    border-radius: 15px;
+    background-color: #89939f;
+    padding: 20px;
+    margin-bottom: 15px;
+    border: 2px dotted black;
+}
+#graph {
+    text-align: center;
+}
+#input-box{
+    display: flex;
+}
+#input-box form {
+    padding-left: 10px;
+    width: 45%;
+}
+#input-box img{
+    padding: 50px 3px 50px 5px;
+    width: 45%;
+}
+
+#table-block {
+    width: 70%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, tr, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+th, tr, td {
+    text-align: center;
+}
+
+label {
+    padding-right: 5px;
+}
+.important {
+    font-weight: bold;
+}
+#input-y {
+    width: 45%;
+}
+input, select, button {
+    padding: 6px;
+}
+button {
+    font-weight: bold;
+    background-color: pink;
+}
+
+
+
