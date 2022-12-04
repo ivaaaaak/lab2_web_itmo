@@ -1,6 +1,6 @@
 <%@ page import="java.util.LinkedList" %>
 <%@ page import="java.util.Iterator" %>
-<%@ page import="com.ivaaaak.lab2web.util.Point" %>
+<%@ page import="com.ivaaaak.lab2web.model.Point" %>
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 
 <!DOCTYPE html>
@@ -8,7 +8,7 @@
 <head>
     <meta charset="UTF-8">
     <title>lab2web</title>
-    <link rel="stylesheet" href="styles/main_style.css">
+    <link rel="stylesheet" href="css/main_style.css">
 </head>
 
 <body>

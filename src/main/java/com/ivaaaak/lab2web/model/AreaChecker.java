@@ -1,4 +1,4 @@
-package com.ivaaaak.lab2web.util;
+package com.ivaaaak.lab2web.model;
 
 import static java.lang.Math.pow;
 

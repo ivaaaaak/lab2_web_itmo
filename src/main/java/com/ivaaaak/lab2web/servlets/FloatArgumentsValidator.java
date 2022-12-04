@@ -1,4 +1,4 @@
-package com.ivaaaak.lab2web.util;
+package com.ivaaaak.lab2web.servlets;
 
 import com.ivaaaak.lab2web.exceptions.OutOfRangeException;
 

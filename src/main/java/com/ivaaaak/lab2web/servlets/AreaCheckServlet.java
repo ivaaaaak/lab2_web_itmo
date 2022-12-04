@@ -1,7 +1,7 @@
 package com.ivaaaak.lab2web.servlets;
 
-import com.ivaaaak.lab2web.util.AreaChecker;
-import com.ivaaaak.lab2web.util.Point;
+import com.ivaaaak.lab2web.model.AreaChecker;
+import com.ivaaaak.lab2web.model.Point;
 
 import javax.inject.Inject;
 import javax.servlet.ServletException;

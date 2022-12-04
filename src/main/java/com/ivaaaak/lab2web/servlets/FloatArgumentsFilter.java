@@ -1,8 +1,7 @@
 package com.ivaaaak.lab2web.servlets;
 
 import com.ivaaaak.lab2web.exceptions.NotFloatArgsException;
-import com.ivaaaak.lab2web.util.FloatArgumentsValidator;
-import com.ivaaaak.lab2web.util.FloatArgumentsValidator.Range;
+import com.ivaaaak.lab2web.servlets.FloatArgumentsValidator.Range;
 
 import javax.inject.Inject;
 import javax.servlet.FilterChain;
